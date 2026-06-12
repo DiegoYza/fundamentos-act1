@@ -8,6 +8,6 @@ class Program
         Console.WriteLine("=====================================");
         Console.WriteLine("¡Hola, Mundo! Saludo desde mi nueva rama.");
         Console.WriteLine("Laboratorio de Git y GitHub completado.");
-        Console.WriteLine("=====================================");
+        Console.WriteLine("====================================="); 
     }
 }
